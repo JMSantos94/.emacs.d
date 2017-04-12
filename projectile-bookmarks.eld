@@ -1,0 +1,1 @@
+("~/projects/gumgum/dental-annotation/" "~/projects/gumgum/vi-admin/" "~/projects/gumgum/gumgum-vi-webapp/" "~/projects/personal/my-app/")
