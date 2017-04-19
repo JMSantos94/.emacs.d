@@ -1,82 +1,122 @@
-((("bool" .
-   [2 0 0 0])
-  ("showAnnotations" .
-   [0 0 0 0 0 1 0 0 1 0 0 0 0 0 0])
-  ("showRollOver" .
-   [0 0 0 0 0 1 0 0 0 0 0 0])
-  ("PhotoCard" .
-   [1 0 0 0 0 0 1 0 0])
-  ("types" .
-   [2 0 0 0 0])
-  ("true" .
-   [3 0 0 0])
-  ("password" .
-   [2 0 0 0 0 0 0 0])
-  ("asdadasd" .
-   [0 0 0 0 0 0 0 1])
-  ("asm-mode" .
-   [0 0 1 0 0 0 0 0])
-  ("return" .
-   [4 0 0 0 0 0])
-  ("render" .
-   [1 0 0 0 0 0])
-  ("export" .
-   [2 0 0 0 0 0])
-  ("function" .
-   [2 0 0 0 0 0 0 0])
-  ("mapStateToProps" .
-   [0 0 0 0 0 1 0 0 1 0 0 0 0 0 0])
-  ("state" .
-   [3 0 0 0 0])
-  ("mapDispatchToProps" .
-   [0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
-  ("default" .
-   [2 0 0 0 0 0 0])
-  ("connect" .
-   [1 0 0 0 0 0 0])
-  ("AnnotationManager" .
-   [0 0 0 1 2 1 0 1 1 0 0 0 0 0 0 0 0])
-  ("h1" .
-   [2 0])
-  ("Managers" .
-   [0 0 0 0 0 0 0 1])
-  ("import" .
-   [3 0 0 0 0 0])
-  ("from" .
-   [3 0 0 0])
-  ("component" .
-   [0 0 0 0 0 0 0 0 1])
-  ("annotation" .
-   [1 0 0 0 0 0 0 0 0 0])
-  ("components" .
-   [1 0 0 0 0 0 0 0 0 0])
-  ("Switch" .
-   [2 0 0 0 0 0])
-  ("active" .
-   [5 0 1 0 0 0])
-  ("prevState" .
-   [0 0 0 0 1 0 0 0 0])
-  ("this" .
-   [1 0 0 0])
-  ("UnderlineNav" .
-   [0 0 1 0 0 1 0 0 0 0 0 0])
-  ("const" .
-   [2 0 0 0 0])
-  ("common" .
-   [0 0 0 0 1 0])
-  ("propTypes" .
-   [1 0 0 0 0 0 0 0 0])
-  ("PropTypes" .
-   [0 0 1 0 2 0 0 0 0])
-  ("i" .
-   [2])
-  ("object" .
-   [1 0 0 0 0 0])
-  ("isRequired" .
-   [0 0 0 0 0 1 0 0 0 0])
-  ("NavBar" .
-   [0 0 0 1 0 3])
+((("div" .
+   [1 0 0])
   ("match" .
    [2 0 0 0 0])
-  ("div" .
-   [1 0 0])))
+  ("NavBar" .
+   [0 0 0 1 0 3])
+  ("isRequired" .
+   [0 0 0 0 1 1 0 0 0 0])
+  ("object" .
+   [1 0 0 0 0 0])
+  ("i" .
+   [2])
+  ("PropTypes" .
+   [0 0 1 1 2 0 0 0 0])
+  ("propTypes" .
+   [1 0 0 0 0 0 0 0 0])
+  ("common" .
+   [0 0 0 0 1 0])
+  ("const" .
+   [2 0 0 0 0])
+  ("UnderlineNav" .
+   [0 0 1 0 0 1 0 0 0 0 0 0])
+  ("this" .
+   [5 0 0 0])
+  ("prevState" .
+   [0 0 0 0 1 0 0 0 0])
+  ("active" .
+   [5 0 1 0 0 0])
+  ("Switch" .
+   [2 0 0 0 0 0])
+  ("components" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("annotation" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("component" .
+   [0 0 0 0 0 0 0 0 1])
+  ("from" .
+   [3 0 0 0])
+  ("import" .
+   [3 0 0 0 0 0])
+  ("Managers" .
+   [0 0 0 0 0 0 0 1])
+  ("h1" .
+   [2 0])
+  ("AnnotationManager" .
+   [0 0 0 1 2 1 0 1 1 0 0 0 0 0 0 0 0])
+  ("connect" .
+   [1 0 0 0 0 0 0])
+  ("default" .
+   [2 0 0 0 0 0 0])
+  ("mapDispatchToProps" .
+   [0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
+  ("state" .
+   [4 0 0 0 0])
+  ("mapStateToProps" .
+   [0 0 0 0 0 1 0 0 1 0 0 0 0 0 0])
+  ("function" .
+   [2 0 0 0 0 0 0 0])
+  ("export" .
+   [2 0 0 0 0 0])
+  ("render" .
+   [1 0 0 0 0 0])
+  ("return" .
+   [6 0 0 0 0 0])
+  ("asm-mode" .
+   [0 0 1 0 0 0 0 0])
+  ("asdadasd" .
+   [0 0 0 0 0 0 0 1])
+  ("password" .
+   [2 0 0 0 0 0 0 0])
+  ("true" .
+   [4 0 0 0])
+  ("types" .
+   [2 0 0 0 0])
+  ("PhotoCard" .
+   [1 0 0 0 0 0 1 0 0])
+  ("showRollOver" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("showAnnotations" .
+   [0 0 0 0 0 1 0 0 1 0 0 0 0 0 0])
+  ("bool" .
+   [2 0 0 0])
+  ("deepCheck" .
+   [0 0 0 0 1 0 0 0 0])
+  ("nextProps" .
+   [0 0 0 0 1 0 0 0 0])
+  ("coors" .
+   [2 0 0 0 0])
+  ("ratio" .
+   [7 0 0 0 0])
+  ("RATIO" .
+   [1 0 0 0 0])
+  ("WIDTH" .
+   [2 0 0 0 0])
+  ("HEIGHT" .
+   [1 0 0 1 0 0])
+  ("imageDimensions" .
+   [0 0 0 0 0 0 1 0 0 1 0 0 0 0 0])
+  ("width" .
+   [1 0 0 0 0])
+  ("height" .
+   [1 0 0 0 0 0])
+  ("boundingBoxes" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("photos" .
+   [1 0 0 0 0 0])
+  ("annotations" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("and" .
+   [1 0 0])
+  ("the" .
+   [1 0 0])
+  ("_togglePhotoModal" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("togglePage" .
+   [0 0 0 0 0 0 2 0 0 0])
+  ("func" .
+   [0 0 0 1])
+  ("props" .
+   [1 0 0 0 0])
+  ("false" .
+   [1 0 0 0 0])))

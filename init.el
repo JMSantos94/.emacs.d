@@ -234,6 +234,9 @@
 (setq shell-file-name "bash")
 (setq shell-command-switch "-ic")
 
+;;; Delete white space on save
+(add-hook 'before-save-hook 'delete-trailing-whitespace)
+
 ;;; Start server
 (server-start)
 
@@ -268,7 +271,7 @@
  '(org-agenda-files (quote ("~/Desktop/test-org.org")))
  '(package-selected-packages
    (quote
-    (iy-go-to-char rjsx-mode helm-swoop anzu material-theme hlinum moe-theme badger-theme monokai-alt-theme monokai-theme zenburn-theme tern-auto-complete tern auto-complete expand-region exec-path-from-shell web-mode json-mode js2-mode flycheck helm-projectile projectile org helm-ag)))
+    (eslint-fix iy-go-to-char rjsx-mode helm-swoop anzu material-theme hlinum moe-theme badger-theme monokai-alt-theme monokai-theme zenburn-theme tern-auto-complete tern auto-complete expand-region exec-path-from-shell web-mode json-mode js2-mode flycheck helm-projectile projectile org helm-ag)))
  '(pdf-view-midnight-colors (quote ("#DCDCCC" . "#383838")))
  '(pos-tip-background-color "#A6E22E")
  '(pos-tip-foreground-color "#272822")
