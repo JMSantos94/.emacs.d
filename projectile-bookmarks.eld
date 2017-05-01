@@ -1,1 +1,1 @@
-("~/projects/gumgum/dental-annotation/" "~/.emacs.d/" "~/projects/gumgum/vi-admin/" "~/projects/gumgum/gumgum-vi-webapp/" "~/projects/personal/my-app/")
+("~/projects/gumgum/dental-annotation/" "~/projects/personal/portfolio-hyperapp/" "~/.emacs.d/" "~/projects/gumgum/vi-admin/" "~/projects/gumgum/gumgum-vi-webapp/" "~/projects/personal/my-app/")
