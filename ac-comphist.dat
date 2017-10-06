@@ -1,188 +1,528 @@
-((("isOnEditPage" .
-   [0 0 0 0 1 0 0 0 0 0 0 0])
-  ("completed" .
-   [1 0 0 0 0 0 0 0 0])
-  ("photoId" .
-   [2 0 0 0 0 0 0])
-  ("result" .
-   [2 0 0 0 0 0])
-  ("response" .
-   [1 0 0 0 0 0 0 0])
-  ("action" .
-   [1 0 0 0 0 0])
-  ("TODO" .
-   [1 0 0 0])
-  ("entities" .
+((("imageUrl" .
    [2 0 0 0 0 0 0 0])
-  ("list" .
-   [3 0 0 0])
-  ("isCompleted" .
-   [0 0 0 0 0 0 0 1 0 0 0])
-  ("BoundingBox" .
-   [0 0 0 0 0 0 0 0 1 0 1])
-  ("updateBoxes" .
-   [0 0 0 0 0 0 1 0 0 0 0])
-  ("s" .
-   [1])
-  ("updatedCoors" .
-   [0 0 0 0 0 0 1 0 0 0 0 0])
-  ("log" .
-   [3 0 0])
-  ("updateBox" .
-   [0 0 0 1 0 0 0 0 0])
-  ("console" .
-   [5 0 0 0 0 0 0])
-  ("shouldComponentUpdate" .
-   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("photoData" .
-   [3 0 0 0 0 0 0 0 0])
-  ("className" .
-   [1 0 0 0 0 0 0 0 0])
-  ("div" .
-   [1 0 0])
-  ("match" .
-   [2 0 0 0 0])
-  ("NavBar" .
-   [0 0 0 1 0 3])
-  ("isRequired" .
-   [0 0 0 0 1 1 0 0 0 0])
-  ("object" .
+  ("imageSrc" .
+   [1 0 0 0 0 0 0 0])
+  ("src" .
+   [2 0 0])
+  ("img" .
+   [2 0 0])
+  ("find" .
+   [1 0 0 0])
+  ("Check" .
+   [1 0 0 0 0])
+  ("fn" .
+   [1 0])
+  ("passed" .
    [1 0 0 0 0 0])
+  ("noEvents" .
+   [4 0 0 0 0 0 0 0])
+  ("class" .
+   [2 0 0 0 0])
+  ("shouldn" .
+   [1 0 0 0 0 0 0])
+  ("called" .
+   [1 0 0 0 0 0])
+  ("have" .
+   [1 0 0 0])
+  ("should" .
+   [2 0 0 0 0 0])
+  ("it" .
+   [1 0])
+  ("click" .
+   [2 0 0 0 0])
+  ("we" .
+   [1 0])
+  ("callback" .
+   [1 0 0 0 0 0 0 0])
+  ("gds-lens__viewport" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("mockOnClick" .
+   [0 0 0 0 1 0 0 0 0 0 1])
+  ("old" .
+   [1 0 0])
+  ("arraysEqual" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("halfH" .
+   [1 0 0 0 0])
+  ("halfW" .
+   [1 0 0 0 0])
+  ("endY" .
+   [1 0 0 0])
+  ("width" .
+   [1 0 0 0 0])
+  ("endX" .
+   [2 0 0 0])
+  ("end" .
+   [1 0 0])
+  ("start" .
+   [1 0 0 0 0])
+  ("startX" .
+   [0 0 0 0 0 1])
+  ("s" .
+   [2])
+  ("break" .
+   [1 0 0 0 0])
+  ("newStart" .
+   [1 0 0 0 0 0 0 0])
+  ("case" .
+   [2 0 0 0])
+  ("onMouseDown" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("textDirectionClass" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("isSelectingRh" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("rhIndex" .
+   [4 0 0 0 0 0 0])
+  ("currentSponsor" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("currentRh" .
+   [3 0 0 0 0 0 0 0 0])
+  ("selectedRightsholders" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1])
+  ("sponsors" .
+   [5 0 0 0 0 0 0 0])
+  ("stepNumber" .
+   [4 0 0 0 0 0 0 0 0 0])
+  ("rhName" .
+   [3 0 0 0 0 0])
+  ("nextProps" .
+   [0 0 0 0 0 0 0 0 1])
+  ("500" .
+   [1 0 0])
+  ("experience__title" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("title" .
+   [1 0 0 0 0])
+  ("SkillsCard" .
+   [1 0 0 0 0 2 0 0 0 0])
+  ("subSkills" .
+   [1 0 0 0 0 0 0 0 0])
+  ("subskill" .
+   [1 0 0 0 0 0 0 0])
+  ("skills" .
+   [5 0 0 0 0 0])
+  ("lastIndex" .
+   [1 0 0 0 0 0 0 0 0])
+  ("store" .
+   [1 0 0 0 0])
+  ("prevBox" .
+   [0 0 0 0 1 0 0])
+  ("id" .
+   [7 0])
+  ("undo" .
+   [2 0 0 0])
+  ("bool" .
+   [1 0 0 0])
+  ("hasUndos" .
+   [2 0 0 0 0 0 0 0])
+  ("undoStack" .
+   [4 0 0 0 0 0 0 0 0])
+  ("Undo" .
+   [1 0 0 1])
+  ("handleUndo" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("button" .
+   [2 0 0 0 0 0])
+  ("isRequired" .
+   [0 0 0 0 3 0 0 0 0 1])
+  ("func" .
+   [1 0 0 0])
+  ("PropTypes" .
+   [0 0 2 1 4 0 0 0 0])
+  ("aqua" .
+   [1 0 0 0])
+  ("tabs__container" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("main-start" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("none" .
+   [1 0 0 0])
+  ("yellow" .
+   [1 0 0 0 0 0])
+  ("background-color" .
+   [0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0])
+  ("connection-switch__container-start" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("box__container-start" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("threads__container" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("threads" .
+   [3 0 0 0 0 0 0])
+  ("div" .
+   [2 0 0])
+  ("darkred" .
+   [1 0 0 0 0 0 0])
+  ("darkgreen" .
+   [1 0 0 0 0 0 0 0 0])
+  ("darkblue" .
+   [1 0 0 0 0 0 0 0])
+  ("red" .
+   [4 0 0])
+  ("purple" .
+   [2 0 0 0 0 0])
+  ("green" .
+   [2 0 0 0 0])
+  ("gold" .
+   [1 0 0 0])
+  ("blue" .
+   [1 0 0 0])
+  ("danger" .
+   [1 0 0 0 0 0])
+  ("warning" .
+   [1 0 0 0 0 0 0])
+  ("dark" .
+   [13 0 0 0])
+  ("success" .
+   [1 0 0 0 0 0 0])
+  ("last" .
+   [1 0 0 0])
+  ("matching" .
+   [1 0 0 0 0 0 0 0])
+  ("option" .
+   [1 0 0 0 0 0])
+  ("e" .
+   [1])
+  ("is" .
+   [4 0])
+  ("If" .
+   [1 0])
+  ("includes" .
+   [1 0 0 0 0 0 0 0])
+  ("match" .
+   [1 0 0 0 0])
+  ("term" .
+   [2 0 0 0])
+  ("input" .
+   [1 0 0 0 0])
+  ("array" .
+   [2 0 0 0 0])
+  ("map" .
+   [1 0 0])
+  ("matchingIndexes" .
+   [0 0 0 1 1 0 1 0 0 0 0 0 0 0 0])
+  ("nextIndex" .
+   [3 0 0 0 0 0 0 0 0])
   ("i" .
    [2])
-  ("PropTypes" .
-   [0 0 1 1 2 0 0 0 0])
-  ("propTypes" .
-   [1 0 0 0 0 0 0 0 0])
-  ("common" .
-   [0 0 0 0 1 0])
-  ("const" .
-   [9 0 0 0 0])
-  ("UnderlineNav" .
-   [0 0 1 0 0 1 0 0 0 0 0 0])
-  ("this" .
-   [13 0 0 0])
-  ("prevState" .
-   [0 0 0 0 1 0 0 0 0])
-  ("active" .
-   [5 0 1 0 0 0])
-  ("Switch" .
-   [2 0 0 0 0 0])
-  ("components" .
-   [1 0 0 0 0 0 0 0 0 0])
-  ("annotation" .
-   [1 0 0 0 0 0 0 0 0 0])
-  ("component" .
-   [0 0 0 0 0 0 0 0 1])
-  ("from" .
+  ("indexes" .
+   [2 0 0 0 0 0 0])
+  ("matchingOpts" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("first" .
+   [3 0 0 0 0])
+  ("length" .
+   [11 0 0 0 0 0])
+  ("elements" .
+   [2 0 0 0 0 0 0 0])
+  ("null" .
+   [1 0 0 0])
+  ("filter" .
+   [1 0 0 0 0 0])
+  ("matchingOptions" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0 1 1])
+  ("log" .
+   [11 0 0])
+  ("console" .
+   [14 0 0 0 0 0 0])
+  ("NEXT" .
+   [0 0 0 1])
+  ("oldTerm" .
+   [0 0 0 0 0 1 1])
+  ("test" .
+   [1 0 0 0])
+  ("regEx" .
+   [0 0 0 2 0])
+  ("search" .
+   [1 0 0 0 0 0])
+  ("visible" .
+   [7 0 0 0 0 0 0])
+  ("the" .
+   [9 0 0])
+  ("currentIndex" .
+   [0 0 0 1 0 3 3 3 1 0 0 2])
+  ("props" .
+   [11 0 0 0 0])
+  ("state" .
+   [7 0 0 0 0])
+  ("searchTerm" .
+   [1 0 0 0 0 1 1 0 0 4])
+  ("if" .
+   [8 0])
+  ("Component" .
+   [3 0 0 0 0 1 1 0 3])
+  ("toBe" .
    [3 0 0 0])
+  ("expect" .
+   [5 0 0 0 0 0])
+  ("header" .
+   [2 0 0 0 0 0])
+  ("const" .
+   [66 0 0 0 0])
+  ("FormGroup" .
+   [0 0 0 0 0 0 1 0 1])
+  ("component" .
+   [1 0 0 0 0 0 0 0 0])
+  ("className" .
+   [8 0 0 0 0 0 0 0 1])
+  ("this" .
+   [30 0 0 0])
+  ("setState" .
+   [4 0 0 0 0 0 0 0])
+  ("isOpen" .
+   [0 0 0 1 0 0])
+  ("false" .
+   [4 0 0 0 0])
+  ("true" .
+   [8 0 0 0])
+  ("_openSelect" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("onClick" .
+   [6 0 0 0 0 0 0])
+  ("_toggleSelect" .
+   [0 0 0 0 1 1 0 0 0 0 0 0 0])
+  ("key" .
+   [1 0 0])
+  ("return" .
+   [12 0 0 0 0 1])
+  ("_addOption" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("_removeOption" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("name" .
+   [7 0 0 0])
+  ("prevState" .
+   [0 0 0 0 3 0 0 0 0])
+  ("index" .
+   [6 0 0 0 0])
+  ("oldOption" .
+   [0 0 0 1 1 0 0 0 0])
+  ("isSelected" .
+   [2 0 0 0 1 0 0 0 0 0])
+  ("options" .
+   [10 0 0 0 0 0 0])
+  ("isTagsOpen" .
+   [1 0 0 0 0 0 2 1 0 0])
+  ("openTagsClass" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("keyboard" .
+   [1 0 0 0 0 0 0 0])
+  ("_toggleTags" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("fullWidth" .
+   [0 0 0 0 1 0 0 0 0])
+  ("isSmall" .
+   [1 0 0 0 0 0 0])
+  ("gds-tag__option--xs" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("gds-tag__option--sm" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("gds-tag--$" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("context" .
+   [8 0 0 0 0 0 0])
+  ("gds-tag__option--$" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("select" .
+   [1 0 0 0 0 0])
+  ("contextPalette" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("primary" .
+   [2 0 0 0 0 0 0])
+  ("gds-tag--sm" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("clientId" .
+   [5 0 0 0 0 0 0 0])
+  ("data" .
+   [5 0 0 0])
+  ("rhId" .
+   [3 0 0 0])
+  ("sponsorId" .
+   [2 0 0 0 0 0 0 0 0])
+  ("rh" .
+   [1 0])
+  ("removePlacement" .
+   [0 0 0 0 0 0 0 0 0 1 0 1 0 0 0])
+  ("actionOutput" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("removeSponsor" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("new" .
+   [4 0 0])
+  ("schema" .
+   [4 0 0 0 0 0])
+  ("Object" .
+   [1 0 0 0 0 0])
+  ("socialPost" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("mediaEntity" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("mediaObject" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("elegibleRightsholders" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Array" .
+   [1 0 0 0 0])
+  ("elegibleRhEntity" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("socialFilters" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Entity" .
+   [1 0 0 0 0 0])
+  ("React" .
+   [1 0 0 0 0])
+  ("from" .
+   [4 0 0 0])
+  ("r" .
+   [1])
+  ("react" .
+   [1 0 0 0 0])
   ("import" .
    [3 0 0 0 0 0])
-  ("Managers" .
-   [0 0 0 0 0 0 0 1])
-  ("h1" .
-   [2 0])
-  ("AnnotationManager" .
-   [0 0 0 1 2 1 0 1 1 0 0 0 0 0 0 0 0])
-  ("connect" .
-   [1 0 0 0 0 0 0])
-  ("default" .
-   [2 0 0 0 0 0 0])
-  ("mapDispatchToProps" .
-   [0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
-  ("state" .
-   [10 0 0 0 0])
-  ("mapStateToProps" .
-   [0 0 0 0 0 1 0 0 1 0 0 0 0 0 0])
-  ("function" .
-   [2 0 0 0 0 0 0 0])
+  ("prop-types" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("o" .
+   [1])
+  ("text" .
+   [5 0 0 0])
+  ("HotkeyButton" .
+   [1 0 0 2 0 0 0 0 0 0 0 3])
+  ("propTypes" .
+   [1 0 0 0 0 0 0 0 0])
+  ("string" .
+   [2 0 0 0 0 0])
   ("export" .
    [2 0 0 0 0 0])
-  ("render" .
+  ("default" .
+   [1 0 0 0 0 0 0])
+  ("otherProps" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("defaultProps" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("leftoverText" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("shortcut" .
+   [1 0 0 0 0 0 0 0])
+  ("add" .
+   [2 0 0])
+  ("with" .
+   [1 0 0 0])
+  ("hotkeys" .
+   [1 0 0 0 0 0 0])
+  ("common" .
    [1 0 0 0 0 0])
-  ("return" .
-   [15 0 0 0 0 0])
-  ("asm-mode" .
-   [0 0 1 0 0 0 0 0])
-  ("asdadasd" .
-   [0 0 0 0 0 0 0 1])
-  ("password" .
-   [2 0 0 0 0 0 0 0])
-  ("true" .
-   [13 0 0 0])
-  ("types" .
-   [2 0 0 0 0])
-  ("PhotoCard" .
-   [1 0 0 0 0 0 1 0 0])
-  ("showRollOver" .
-   [0 0 0 0 0 1 0 0 0 0 0 0])
-  ("showAnnotations" .
-   [0 0 0 0 0 1 0 0 1 0 0 0 0 0 0])
-  ("bool" .
-   [2 0 0 0])
-  ("deepCheck" .
-   [0 0 0 0 1 0 0 0 0])
-  ("nextProps" .
-   [0 0 0 0 1 1 0 0 5])
-  ("coors" .
-   [10 0 0 0 0])
-  ("ratio" .
-   [7 0 0 0 0])
-  ("RATIO" .
+  ("stepName" .
+   [1 0 0 0 0 0 0 0])
+  ("reject" .
+   [1 0 0 0 0 0])
+  ("confirm" .
+   [2 0 0 0 0 0 0])
+  ("-m-r-2" .
+   [1 0 0 0 0 0])
+  ("disabledClass" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("style" .
    [1 0 0 0 0])
-  ("WIDTH" .
-   [2 0 0 0 0])
-  ("HEIGHT" .
-   [1 0 0 1 0 0])
-  ("imageDimensions" .
-   [0 0 0 0 0 0 1 0 0 1 0 0 0 0 0])
-  ("width" .
-   [4 0 0 0 0])
-  ("height" .
-   [4 0 0 0 0 0])
-  ("boundingBoxes" .
-   [2 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("photos" .
+  ("-p-h-6" .
+   [1 0 0 0 0 0])
+  ("label" .
+   [1 0 0 0 0])
+  ("labels" .
    [3 0 0 0 0 0])
-  ("annotations" .
-   [3 0 0 0 0 0 0 0 0 0 0])
-  ("and" .
-   [1 0 0])
-  ("the" .
-   [1 0 0])
-  ("_togglePhotoModal" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("togglePage" .
-   [0 0 0 0 0 0 2 0 0 0])
-  ("func" .
-   [0 0 0 1])
-  ("props" .
-   [10 0 0 0 0])
-  ("false" .
-   [1 0 0 0 0])
-  ("Jose" .
-   [1 0 0 0])
-  ("imageCoors" .
-   [1 0 0 0 0 0 0 0 0 0])
-  ("of" .
-   [1 0])
-  ("if" .
-   [1 0])
-  ("too" .
-   [1 0 0])
-  ("||" .
-   [2 0])
-  ("t" .
-   [1])
-  ("left" .
-   [1 0 0 0])
-  ("imageStyles" .
+  ("streamId" .
+   [1 0 0 0 0 0 0 0])
+  ("streamletId" .
    [1 0 0 0 0 0 0 0 0 0 0])
-  ("top" .
-   [1 0 0])
-  ("outOfBoundaries" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("tooSmall" .
+  ("currentPosition" .
+   [0 0 0 0 0 0 1 0 0 1 0 0 0 0 0])
+  ("actions" .
+   [3 0 0 0 0 0 0])
+  ("currentPost" .
+   [0 0 0 0 0 0 0 0 0 0 2])
+  ("rhs" .
+   [2 0 0])
+  ("stream" .
+   [2 0 0 0 0 0])
+  ("streamlet" .
+   [1 0 0 0 0 0 0 0 0])
+  ("acc" .
+   [7 0 0])
+  ("reduce" .
+   [1 0 0 0 0 0])
+  ("push" .
+   [1 0 0 0])
+  ("selectedSponsors" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("domainObject" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("numberOfPosts" .
+   [0 0 0 1 0 0 1 0 0 0 0 0 4])
+  ("newPosition" .
+   [0 0 0 0 0 4 2 0 0 0 2])
+  ("isMissingPosts" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("requestImages" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("l" .
+   [1])
+  ("eligibleRightsholders" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("social" .
+   [1 0 0 0 0 1])
+  ("merge" .
+   [3 0 0 0 0])
+  ("newRhs" .
+   [1 0 0 0 0 0])
+  ("entities" .
    [0 0 0 0 1 0 0 0])
-  ("selectionBox" .
+  ("newSocPosts" .
+   [0 0 0 0 0 1 0 1 0 0 0])
+  ("socialPosts" .
+   [1 0 0 1 0 0 0 0 1 0 0])
+  ("concat" .
+   [1 0 0 0 0 0])
+  ("imagesStreamPosts" .
+   [0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 0 0])
+  ("result" .
+   [1 0 0 0 0 0])
+  ("newImgStreamPosts" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("Request" .
+   [1 0 0 0 0 0 0])
+  ("prop" .
+   [1 0 0 0])
+  ("||" .
+   [1 0])
+  ("isWaitingToMove" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 1])
+  ("postId" .
+   [2 0 0 0 0 0])
+  ("types" .
+   [1 0 0 0 0])
+  ("p" .
+   [3])
+  ("action" .
+   [1 0 0 0 0 0])
+  ("a" .
+   [1])
+  ("assocPath" .
+   [1 0 0 0 0 0 0 0 0])
+  ("type" .
+   [1 0 0 0])
+  ("next" .
+   [2 0 0 0])
+  ("images" .
+   [2 0 0 0 0 0])
+  ("be" .
+   [2 0])
+  ("nextPosition" .
+   [1 0 0 0 0 0 1 0 0 0 0 0])
+  ("findIndex" .
+   [1 0 0 0 0 0 0 0 0])
+  ("imagePostsIds" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("MEDIA_BUFFER" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("nextLocation" .
    [1 0 0 0 0 0 0 0 0 0 0 0])))

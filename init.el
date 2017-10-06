@@ -109,10 +109,14 @@
   (setq web-mode-enable-auto-closing t)
   (setq web-mode-enable-auto-pairing t)
   (setq web-mode-enable-css-colorization t)
+  (setq web-mode-indent-style 4)
   (setq web-mode-markup-indent-offset 4)
   (setq web-mode-css-indent-offset 4)
   (setq web-mode-code-indent-offset 4))
 (add-hook 'web-mode-hook  'my-web-mode-hook)
+
+;; Electric mode
+(electric-indent-mode 1)
 
 ;; for better jsx syntax-highlighting in web-mode
 ;; - courtesy of Patrick @halbtuerke
@@ -140,6 +144,7 @@
 
 ;;; tern
 (add-hook 'js2-mode-hook (lambda () (tern-mode t)))
+(add-hook 'web-mode-hook (lambda () (tern-mode t)))
 (eval-after-load 'tern
    '(progn
       (require 'tern-auto-complete)
